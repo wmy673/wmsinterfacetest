@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Fri Jul 25 10:29:02 CST 2025","Fri Jul 25 10:29:02 CST 2025","83","case","test_goodslist","TestGoodsList","","","test_03",""
+"failed","Fri Jul 25 10:29:02 CST 2025","Fri Jul 25 10:29:02 CST 2025","50","case","test_goodslist","TestGoodsList","","","test_02",""
+"passed","Fri Jul 25 10:29:05 CST 2025","Fri Jul 25 10:29:05 CST 2025","61","case","test_login","TestLogin","","","test_02",""
+"passed","Fri Jul 25 10:29:05 CST 2025","Fri Jul 25 10:29:05 CST 2025","75","case","test_login","TestLogin","","","test_03",""
+"failed","Fri Jul 25 10:29:01 CST 2025","Fri Jul 25 10:29:01 CST 2025","53","case","test_goodslist","TestGoodsList","","","test_01",""
+"passed","Fri Jul 25 10:29:02 CST 2025","Fri Jul 25 10:29:05 CST 2025","3058","case","test_login","TestLogin","","","test_01",""
